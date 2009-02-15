@@ -1,0 +1,46 @@
+[
+	{
+		"type" : "t1",
+		"title" : "型1",
+		"attr" : [
+			{
+				"name" : "attr1",
+				"title" : "属性1"
+			},
+			{
+				"name" : "attr2",
+				"title" : "属性2"
+			},
+			{
+				"name" : "attr3",
+				"title" : "属性3"
+			}
+		]
+	},
+	{
+		"type" : "t2",
+		"title" : "型2",
+		"attr" : [
+			{
+				"name" : "create_date",
+				"title" : "作成日"
+			},
+			{
+				"name" : "update_date",
+				"title" : "更新日"
+			},
+			{
+				"name" : "attr1",
+				"title" : "属性1"
+			},
+			{
+				"name" : "attr2",
+				"title" : "属性2"
+			},
+			{
+				"name" : "attr3",
+				"title" : "属性3"
+			}
+		]
+	}
+]
